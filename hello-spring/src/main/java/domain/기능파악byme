@@ -1,0 +1,12 @@
+<내가 파악한 기능들>
+
+1. Member.java
+저장소는 아님 
+id, name 등 사용할 필드 정의 
+
+2. MemberRepository.java
+말 그대로 interface
+
+3. MemoryMemberRepository.java
+"""임시 저장소""" (store map 존재)이자 
+MemberRepository 구현 
